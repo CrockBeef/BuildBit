@@ -12,6 +12,9 @@ I. Block chain
    8. Customizing smart contract
    9. Networking
    10. validation rewards for block
+
+
+       
 II. Accounts and Crypto currency coding
     1. X account
     2. Telegram account
